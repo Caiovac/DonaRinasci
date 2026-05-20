@@ -1,12 +1,12 @@
 # Laravel
-src/vendor/
-src/.env
-src/node_modules/
-src/storage/logs/*
-src/storage/framework/cache/*
-src/storage/framework/sessions/*
-src/storage/framework/views/*
-src/.phpunit.result.cache
+backend/vendor/
+backend/.env
+backend/node_modules/
+backend/storage/logs/*
+backend/storage/framework/cache/*
+backend/storage/framework/sessions/*
+backend/storage/framework/views/*
+backend/.phpunit.result.cache
 
 # Docker
 .env.docker
